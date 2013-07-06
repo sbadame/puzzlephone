@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed8f551-b099-4396-af88-b91da892585e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Puzzlephone/src/main/java/com/paisan/puzzlephone/PuzzleActivity.java" afterPath="$PROJECT_DIR$/Puzzlephone/src/main/java/com/paisan/puzzlephone/PuzzleActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Puzzlephone/src/main/main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="puzzlephone.iws" />
@@ -95,7 +95,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="41" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="9537">
+            <state line="22" column="41" selection-start="1337" selection-end="1337" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="10064">
               <folding />
             </state>
           </provider>
@@ -354,6 +354,11 @@
       <created>1373082942595</created>
       <updated>1373082942595</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project should make much more sense in intellij.&#10;PS: I made this commit from within intellij.">
+      <created>1373085194500</created>
+      <updated>1373085194500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -447,7 +452,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project should make much more sense in intellij.&#10;PS: I made this commit from within intellij." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -461,6 +466,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Project should make much more sense in intellij.&#10;PS: I made this commit from within intellij." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -475,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="9537">
+        <state line="22" column="41" selection-start="1337" selection-end="1337" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="10064">
           <folding />
         </state>
       </provider>
