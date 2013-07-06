@@ -9,6 +9,7 @@ public class PuzzleActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        private String sandy;
         setContentView(R.layout.activity_main);
     }
 
